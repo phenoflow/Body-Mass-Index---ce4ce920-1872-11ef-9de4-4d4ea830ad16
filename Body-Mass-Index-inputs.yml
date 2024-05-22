@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/overweight-body-mass-index---primary.py
+inputModule3:
+  class: File
+  path: python/body-mass-index-percentile---primary.py
+inputModule4:
+  class: File
+  path: python/obese-body-mass-index---primary.py
+inputModule5:
+  class: File
+  path: python/below-body-mass-index---primary.py
+inputModule6:
+  class: File
+  path: python/body-mass-index---primary.py
+inputModule7:
+  class: File
+  path: python/body-mass-index-weight---primary.py
+inputModule8:
+  class: File
+  path: python/body---primary.py
+inputModule9:
+  class: File
+  path: python/body-mass-index-birth---primary.py
+inputModule10:
+  class: File
+  path: python/normal-body-mass-index---primary.py
+inputModule11:
+  class: File
+  path: python/clinic-body-mass-index---primary.py
+inputModule12:
+  class: File
+  path: python/body-mass-index-recorded---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
